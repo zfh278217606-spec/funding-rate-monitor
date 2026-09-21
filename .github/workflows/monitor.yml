@@ -35,6 +35,7 @@ jobs:
       - name: Scan funding rates
         env:
           SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           FORCE_TEST_NOTIFY: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
         run: python monitor.py
 
