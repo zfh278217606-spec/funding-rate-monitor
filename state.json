@@ -1,9 +1,9 @@
 {
   "active": {
-    "Bitget": [],
-    "Gate": [
-      "CELR_USDT"
+    "Bitget": [
+      "CELRUSDT"
     ],
+    "Gate": [],
     "OKX": []
   }
 }
