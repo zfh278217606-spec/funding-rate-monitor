@@ -400,20 +400,20 @@ def push(title, body):
 
     topic = os.environ.get("NTFY_TOPIC")
 
-if topic:
-    r = requests.post(
-        "https://ntfy.sh",
-        json={
-            "topic": topic,
-            "title": title,
-            "message": body,
-            "priority": 5,
-            "tags": ["warning"]
-        },
-        timeout=20
-    )
+    if topic:
+        r = requests.post(
+            "https://ntfy.sh",
+            json={
+                "topic": topic,
+                "title": title,
+                "message": body,
+                "priority": 5,
+                "tags": ["warning"]
+            },
+            timeout=20
+        )
 
-    r.raise_for_status()
+        r.raise_for_status()
 
 
 # =========================
