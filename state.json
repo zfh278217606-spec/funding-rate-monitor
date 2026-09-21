@@ -3,9 +3,7 @@
     "Bitget": [
       "CELRUSDT"
     ],
-    "Gate": [
-      "CELR_USDT"
-    ],
+    "Gate": [],
     "OKX": []
   }
 }
