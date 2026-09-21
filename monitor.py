@@ -377,12 +377,14 @@ def save_state(active):
 # =========================
 
 def push(title, body):
-    key = os.environ[
-        "SERVERCHAN_SENDKEY"
-    ]
+    # =====================
+    # Server酱 → 微信
+    # =====================
+
+    sendkey = os.environ["SERVERCHAN_SENDKEY"]
 
     r = requests.post(
-        f"https://sctapi.ftqq.com/{key}.send",
+        f"https://sctapi.ftqq.com/{sendkey}.send",
         data={
             "title": title,
             "desp": body
@@ -391,6 +393,26 @@ def push(title, body):
     )
 
     r.raise_for_status()
+
+    # =====================
+    # ntfy → 安卓强提醒
+    # =====================
+
+    topic = os.environ.get("NTFY_TOPIC")
+
+    if topic:
+        r = requests.post(
+            f"https://ntfy.sh/{topic}",
+            data=body.encode("utf-8"),
+            headers={
+                "Title": title,
+                "Priority": "5",
+                "Tags": "warning"
+            },
+            timeout=20
+        )
+
+        r.raise_for_status()
 
 
 # =========================
