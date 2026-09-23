@@ -1,6 +1,8 @@
 {
   "active": {
-    "Bitget": [],
+    "Bitget": [
+      "ONEUSDT"
+    ],
     "Gate": [],
     "OKX": []
   }
