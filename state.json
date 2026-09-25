@@ -1,9 +1,9 @@
 {
   "active": {
-    "Bitget": [
-      "ONEUSDT"
+    "Bitget": [],
+    "Gate": [
+      "STEEM_USDT"
     ],
-    "Gate": [],
     "OKX": []
   }
 }
