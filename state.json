@@ -1,7 +1,9 @@
 {
   "active": {
     "Bitget": [],
-    "Gate": [],
+    "Gate": [
+      "EDGE_USDT"
+    ],
     "OKX": []
   }
 }
