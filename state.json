@@ -1,7 +1,10 @@
 {
   "active": {
     "Bitget": [],
-    "Gate": [],
+    "Gate": [
+      "ONE_USDT",
+      "STEEM_USDT"
+    ],
     "OKX": []
   }
 }
