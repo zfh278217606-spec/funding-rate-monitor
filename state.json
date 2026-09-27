@@ -1,9 +1,8 @@
 {
   "active": {
     "Bitget": [],
-    "Gate": [
-      "ESP_USDT"
-    ],
+    "Gate": [],
     "OKX": []
-  }
+  },
+  "threshold": -0.018
 }
