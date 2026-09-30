@@ -1,6 +1,8 @@
 {
   "active": {
-    "Bitget": [],
+    "Bitget": [
+      "ARKUSDT"
+    ],
     "Gate": [
       "ARK_USDT"
     ],
