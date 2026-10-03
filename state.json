@@ -1,7 +1,9 @@
 {
   "active": {
     "Bitget": [],
-    "Gate": [],
+    "Gate": [
+      "SAND_USDT"
+    ],
     "OKX": []
   },
   "threshold": -0.018
