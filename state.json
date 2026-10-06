@@ -1,6 +1,8 @@
 {
   "active": {
-    "Bitget": [],
+    "Bitget": [
+      "NMRUSDT"
+    ],
     "Gate": [
       "NMR_USDT"
     ],
