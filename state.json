@@ -1,9 +1,7 @@
 {
   "active": {
     "Bitget": [],
-    "Gate": [
-      "NMR_USDT"
-    ],
+    "Gate": [],
     "OKX": []
   },
   "threshold": -0.018
