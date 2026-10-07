@@ -1,7 +1,9 @@
 {
   "active": {
     "Bitget": [],
-    "Gate": [],
+    "Gate": [
+      "API3_USDT"
+    ],
     "OKX": []
   },
   "threshold": -0.018
