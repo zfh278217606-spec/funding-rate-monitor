@@ -1,7 +1,9 @@
 {
   "active": {
     "Bitget": [],
-    "Gate": [],
+    "Gate": [
+      "GAIB_USDT"
+    ],
     "OKX": []
   },
   "threshold": -0.018
