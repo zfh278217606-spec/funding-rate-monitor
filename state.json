@@ -1,6 +1,8 @@
 {
   "active": {
-    "Bitget": [],
+    "Bitget": [
+      "KAIAUSDT"
+    ],
     "Gate": [
       "KAIA_USDT"
     ],
