@@ -3,9 +3,7 @@
     "Bitget": [
       "KAIAUSDT"
     ],
-    "Gate": [
-      "KAIA_USDT"
-    ],
+    "Gate": [],
     "OKX": []
   },
   "threshold": -0.018
