@@ -1,7 +1,9 @@
 {
   "active": {
     "Bitget": [],
-    "Gate": [],
+    "Gate": [
+      "KAIA_USDT"
+    ],
     "OKX": []
   },
   "threshold": -0.018
