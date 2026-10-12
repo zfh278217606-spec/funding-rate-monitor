@@ -1,11 +1,7 @@
 {
   "active": {
-    "Bitget": [
-      "RSRUSDT"
-    ],
-    "Gate": [
-      "CTK_USDT"
-    ],
+    "Bitget": [],
+    "Gate": [],
     "OKX": []
   },
   "threshold": -0.018
