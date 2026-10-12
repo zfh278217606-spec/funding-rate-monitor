@@ -3,7 +3,9 @@
     "Bitget": [
       "RSRUSDT"
     ],
-    "Gate": [],
+    "Gate": [
+      "CTK_USDT"
+    ],
     "OKX": []
   },
   "threshold": -0.018
