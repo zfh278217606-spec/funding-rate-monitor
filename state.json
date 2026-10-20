@@ -1,7 +1,9 @@
 {
   "active": {
     "Bitget": [],
-    "Gate": [],
+    "Gate": [
+      "MPLX_USDT"
+    ],
     "OKX": []
   },
   "threshold": -0.018
