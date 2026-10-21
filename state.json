@@ -1,11 +1,7 @@
 {
   "active": {
-    "Bitget": [
-      "BIRBUSDT"
-    ],
-    "Gate": [
-      "BIRB_USDT"
-    ],
+    "Bitget": [],
+    "Gate": [],
     "OKX": []
   },
   "threshold": -0.018
