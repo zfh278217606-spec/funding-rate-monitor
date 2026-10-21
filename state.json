@@ -1,7 +1,11 @@
 {
   "active": {
-    "Bitget": [],
-    "Gate": [],
+    "Bitget": [
+      "IOSTUSDT"
+    ],
+    "Gate": [
+      "IOST_USDT"
+    ],
     "OKX": []
   },
   "threshold": -0.018
