@@ -1,7 +1,10 @@
 {
   "active": {
     "Bitget": [],
-    "Gate": [],
+    "Gate": [
+      "ALT_USDT",
+      "PTB_USDT"
+    ],
     "OKX": []
   },
   "threshold": -0.018
