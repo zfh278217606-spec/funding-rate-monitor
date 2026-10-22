@@ -1,9 +1,11 @@
 {
   "active": {
-    "Bitget": [],
+    "Bitget": [
+      "BTWUSDT"
+    ],
     "Gate": [
       "ALT_USDT",
-      "PTB_USDT"
+      "BTW_USDT"
     ],
     "OKX": []
   },
