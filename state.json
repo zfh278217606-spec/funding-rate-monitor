@@ -1,11 +1,7 @@
 {
   "active": {
-    "Bitget": [
-      "AXISUSDT"
-    ],
-    "Gate": [
-      "AXIS_USDT"
-    ],
+    "Bitget": [],
+    "Gate": [],
     "OKX": []
   },
   "threshold": -0.018
