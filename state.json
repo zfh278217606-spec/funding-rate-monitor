@@ -1,8 +1,10 @@
 {
   "active": {
-    "Bitget": [],
+    "Bitget": [
+      "ARKUSDT"
+    ],
     "Gate": [
-      "ALT_USDT"
+      "ARK_USDT"
     ],
     "OKX": []
   },
