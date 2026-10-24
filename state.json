@@ -1,11 +1,7 @@
 {
   "active": {
-    "Bitget": [
-      "ARKUSDT"
-    ],
-    "Gate": [
-      "ARK_USDT"
-    ],
+    "Bitget": [],
+    "Gate": [],
     "OKX": []
   },
   "threshold": -0.018
