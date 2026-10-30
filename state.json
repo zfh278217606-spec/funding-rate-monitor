@@ -1,9 +1,9 @@
 {
   "active": {
-    "Bitget": [],
-    "Gate": [
-      "ALPINE_USDT"
+    "Bitget": [
+      "SOPHUSDT"
     ],
+    "Gate": [],
     "OKX": []
   },
   "threshold": -0.018
