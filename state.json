@@ -1,7 +1,11 @@
 {
   "active": {
-    "Bitget": [],
-    "Gate": [],
+    "Bitget": [
+      "LSKUSDT"
+    ],
+    "Gate": [
+      "LSK_USDT"
+    ],
     "OKX": []
   },
   "threshold": -0.018
