@@ -1,9 +1,9 @@
 {
   "active": {
-    "Bitget": [
-      "HOTUSDT"
+    "Bitget": [],
+    "Gate": [
+      "ERA_USDT"
     ],
-    "Gate": [],
     "OKX": []
   },
   "threshold": -0.018
